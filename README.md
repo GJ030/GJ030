@@ -28,4 +28,4 @@ Estudiante de la **MaestrÃ­a en Inteligencia Artificial Aplicada** en el TecnolÃ
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 
-> Los repositorios de tareas anteriores se reunieron en los proyectos de la tabla; los originales quedaron archivados.
+
