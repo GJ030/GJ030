@@ -1,4 +1,4 @@
-# 👋 Hola, soy Gael Jurado
+# Hola, soy Gael Jurado
 
 Estudiante de la **Maestría en Inteligencia Artificial Aplicada** en el Tecnológico de Monterrey. Aquí reúno mis proyectos de programación, bases de datos, DevOps y ciencia de datos.
 
