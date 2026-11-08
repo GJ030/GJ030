@@ -8,7 +8,8 @@ Estudiante de la **Maestría en Inteligencia Artificial Aplicada** en el Tecnol�
 |---|---|
 | [Ciencia_datos](https://github.com/GJ030/Ciencia_datos) | Actividades del curso de Ciencia y analítica de datos (pandas, SQL y análisis exploratorio) en notebooks. |
 | [Sistema-Calificaciones-Web](https://github.com/GJ030/Sistema-Calificaciones-Web) | Aplicación web de calificaciones: API ASP.NET Core con SQL Server, cliente React + TypeScript y scripts de base de datos. |
-| [Proyecto-fase-3-herramientas-tecnol-gicas-](https://github.com/GJ030/Proyecto-fase-3-herramientas-tecnol-gicas-) | CitasSonrisas: sistema web de citas para una clínica dental en PHP y MySQL, con Docker y metodología DevOps. |
+| [CitasSonrisas](https://github.com/GJ030/CitasSonrisas) | CitasSonrisas: sistema web de citas para una clínica dental en PHP y MySQL, con Docker y metodología DevOps. |
+| [Trayecto](https://github.com/GJ030/Trayecto) | App local para registrar viajes, cargas de gasolina y lugares, en un solo HTML. Vite + TypeScript, con pruebas unitarias, E2E y CI. |
 | [Kubernetes](https://github.com/GJ030/Kubernetes) | Prácticas de DevOps: manifiestos de Kubernetes, playbook de Ansible, workflows de GitHub Actions y API .NET con Docker. |
 | [Big-data-university-projects](https://github.com/GJ030/Big-data-university-projects) | Laboratorios de Big Data: preparación y limpieza de datos con pandas. |
 | [Practicas-Frontend](https://github.com/GJ030/Practicas-Frontend) | Login con HTML, CSS y JavaScript puro y proyecto base de React con Vite. |
